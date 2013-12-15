@@ -1,5 +1,5 @@
-require 'echo.rb'
-require 'echoMappingRegistry.rb'
+require_relative './echo'
+require_relative './echoMappingRegistry'
 require 'soap/rpc/driver'
 
 module WSDL::Any

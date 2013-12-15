@@ -1,4 +1,4 @@
-require 'datetime.rb'
+require_relative './datetime'
 
 class DatetimePortType
   # SYNOPSIS
