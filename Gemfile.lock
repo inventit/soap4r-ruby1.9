@@ -6,6 +6,7 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
+    rake (0.9.6)
     rcov (0.9.9)
     shoulda (2.11.3)
 
@@ -13,6 +14,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rake
   rcov
   shoulda
   soap4r-ruby1.9!
