@@ -8,6 +8,7 @@
 
 require 'xsd/codegen/gensupport'
 require 'soap/mapping/schemadefinition'
+require 'rexml/document'
 
 
 module SOAP
