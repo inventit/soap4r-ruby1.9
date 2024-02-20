@@ -78,7 +78,7 @@ FALSE
 FalseClass
 File
 FileTest
-Fixnum
+# Fixnum
 Float
 FloatDomainError
 GC
